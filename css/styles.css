@@ -2,6 +2,7 @@ body {
   color: rgb(134, 0, 0);
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   /* background-color: rgb(104, 141, 156); */
+  background-image: linear-gradient(to bottom right, rgb(255, 255, 255), rgb(133, 169, 192));
 }
 
 a {
@@ -35,8 +36,9 @@ a {
 
 img {
   float: right;
+  border-radius: 4px;
 }
 
 .projects img {
-  height: 100px;
+  height: 10vh;
 }
