@@ -1,9 +1,10 @@
 body {
-  color: rgb(134, 0, 0)
+  color: rgb(134, 0, 0);
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
-.sidebar, .main, .about, .interests {
-  border: solid 2px rgb(134, 0, 0);
+.sidebar, .main, .about, .interests, .objectives {
+  border: solid 1px rgb(134, 0, 0);
 }
 
 .profile-image {
@@ -12,4 +13,8 @@ body {
   background-position: center;
   height: 35vh;
   border-radius: 5px;
+}
+
+.jumbotron {
+  background-color: rgb(250, 235, 74);
 }
