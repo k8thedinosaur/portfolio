@@ -51,3 +51,7 @@ img {
 .project {
   height: 16vh;
 }
+
+.panel-heading h3 {
+  color: rgb(134, 0, 0);
+}
