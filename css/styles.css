@@ -14,6 +14,10 @@ a {
   /* border: solid 1px rgb(134, 0, 0); */
 }
 
+/* .col-md-12 {
+  border: solid 1px rgb(134, 0, 0);
+} */
+
 .profile-image {
   background-image: url("../img/k8square.jpg");
   background-size: cover;
