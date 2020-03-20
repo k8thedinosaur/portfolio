@@ -4,7 +4,7 @@ body {
 }
 
 .sidebar, .main, .about, .interests, .objectives {
-  border: solid 1px rgb(134, 0, 0);
+  /* border: solid 1px rgb(134, 0, 0); */
 }
 
 .profile-image {
@@ -12,9 +12,13 @@ body {
   background-size: cover;
   background-position: center;
   height: 35vh;
-  border-radius: 5px;
+  border-radius: 4px 4px 0px 0px;
 }
 
 .jumbotron {
   background-color: rgb(250, 235, 74);
+}
+
+.about {
+  border-radius: 0px 0px 4px 4px;
 }
