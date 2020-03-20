@@ -36,3 +36,7 @@ a {
 img {
   float: right;
 }
+
+.projects img {
+  height: 100px;
+}
