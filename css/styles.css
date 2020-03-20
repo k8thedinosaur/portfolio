@@ -1,3 +1,15 @@
 body {
   color: rgb(134, 0, 0)
 }
+
+.sidebar, .main, .about, .interests {
+  border: solid 2px rgb(134, 0, 0);
+}
+
+.profile-image {
+  background-image: url("../img/k8square.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 35vh;
+  border-radius: 5px;
+}
