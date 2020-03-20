@@ -1,6 +1,12 @@
 body {
   color: rgb(134, 0, 0);
   font-family: "Trebuchet MS", Helvetica, sans-serif;
+  /* background-color: rgb(104, 141, 156); */
+}
+
+a {
+  color: rgb(134, 0, 0);
+  text-decoration: underline;
 }
 
 .sidebar, .main, .about, .interests, .objectives {
@@ -26,3 +32,4 @@ body {
 .hazy {
   color: rgb(218, 201, 108)
 }
+
