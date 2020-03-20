@@ -41,5 +41,9 @@ img {
 }
 
 .projects img {
-  height: 15vh;
+  height: 14vh;
+}
+
+.project {
+  height: 16vh;
 }
