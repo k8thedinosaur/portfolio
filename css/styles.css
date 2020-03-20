@@ -1,7 +1,6 @@
 body {
   color: rgb(134, 0, 0);
   font-family: "Trebuchet MS", Helvetica, sans-serif;
-  /* background-color: rgb(104, 141, 156); */
   background-image: linear-gradient(to bottom right, rgb(255, 255, 255), rgb(110, 151, 177));
 }
 
@@ -9,14 +8,6 @@ a {
   color: rgb(134, 0, 0);
   text-decoration: underline;
 }
-
-.sidebar, .main, .about, .interests, .objectives {
-  /* border: solid 1px rgb(134, 0, 0); */
-}
-
-/* .col-md-12 {
-  border: solid 1px rgb(134, 0, 0);
-} */
 
 .profile-image {
   background-image: url("../img/k8square.jpg");
@@ -28,7 +19,6 @@ a {
 
 .jumbotron {
   background-color: rgb(255, 245, 136);
-  /* background-color: #fcf8e3; */
 }
 
 .about {
