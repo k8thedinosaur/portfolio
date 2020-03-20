@@ -2,7 +2,7 @@ body {
   color: rgb(134, 0, 0);
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   /* background-color: rgb(104, 141, 156); */
-  background-image: linear-gradient(to bottom right, rgb(255, 255, 255), rgb(133, 169, 192));
+  background-image: linear-gradient(to bottom right, rgb(255, 255, 255), rgb(110, 151, 177));
 }
 
 a {
@@ -23,7 +23,8 @@ a {
 }
 
 .jumbotron {
-  background-color: rgb(250, 235, 74);
+  background-color: rgb(255, 245, 136);
+  /* background-color: #fcf8e3; */
 }
 
 .about {
@@ -40,5 +41,5 @@ img {
 }
 
 .projects img {
-  height: 10vh;
+  height: 15vh;
 }
