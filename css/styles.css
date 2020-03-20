@@ -22,3 +22,7 @@ body {
 .about {
   border-radius: 0px 0px 4px 4px;
 }
+
+.hazy {
+  color: rgb(218, 201, 108)
+}
