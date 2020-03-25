@@ -32,6 +32,7 @@ a {
 img {
   float: right;
   border-radius: 4px;
+  padding: 8px;
 }
 
 .projects img {
@@ -44,4 +45,18 @@ img {
 
 .panel-heading h3 {
   color: rgb(134, 0, 0);
+}
+
+.container {
+  margin: 10vh 10vw;
+}
+
+.project {
+  margin-bottom: 20px;
+  display: block;
+}
+
+.projects {
+  /* margin: 5px; */
+  padding: 2% 5%;
 }
