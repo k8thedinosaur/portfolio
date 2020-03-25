@@ -40,7 +40,7 @@ img {
 }
 
 .project {
-  height: 16vh;
+  /* height: 16vh; */
 }
 
 .panel-heading h3 {
@@ -53,7 +53,6 @@ img {
 
 .project {
   margin-bottom: 20px;
-  display: block;
 }
 
 .projects {
