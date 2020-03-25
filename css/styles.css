@@ -36,11 +36,7 @@ img {
 }
 
 .projects img {
-  height: 14vh;
-}
-
-.project {
-  /* height: 16vh; */
+  height: 15vh;
 }
 
 .panel-heading h3 {
@@ -48,14 +44,14 @@ img {
 }
 
 .container {
-  margin: 10vh 10vw;
+  margin: auto;
+  margin-top: 10vh;
 }
 
 .project {
-  margin-bottom: 20px;
+  margin: 15px;
 }
 
 .projects {
-  /* margin: 5px; */
   padding: 2% 5%;
 }
